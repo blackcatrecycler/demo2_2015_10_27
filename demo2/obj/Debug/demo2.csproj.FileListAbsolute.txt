@@ -1,0 +1,10 @@
+C:\Users\BlackCatRecycler\Documents\Visual Studio 2012\Projects\demo2\demo2\bin\Debug\demo2.exe.config
+C:\Users\BlackCatRecycler\Documents\Visual Studio 2012\Projects\demo2\demo2\bin\Debug\demo2.exe
+C:\Users\BlackCatRecycler\Documents\Visual Studio 2012\Projects\demo2\demo2\bin\Debug\demo2.pdb
+C:\Users\BlackCatRecycler\Documents\Visual Studio 2012\Projects\demo2\demo2\obj\Debug\demo2.csprojResolveAssemblyReference.cache
+C:\Users\BlackCatRecycler\Documents\Visual Studio 2012\Projects\demo2\demo2\obj\Debug\demo2.Form1.resources
+C:\Users\BlackCatRecycler\Documents\Visual Studio 2012\Projects\demo2\demo2\obj\Debug\demo2.login.resources
+C:\Users\BlackCatRecycler\Documents\Visual Studio 2012\Projects\demo2\demo2\obj\Debug\demo2.Properties.Resources.resources
+C:\Users\BlackCatRecycler\Documents\Visual Studio 2012\Projects\demo2\demo2\obj\Debug\demo2.csproj.GenerateResource.Cache
+C:\Users\BlackCatRecycler\Documents\Visual Studio 2012\Projects\demo2\demo2\obj\Debug\demo2.exe
+C:\Users\BlackCatRecycler\Documents\Visual Studio 2012\Projects\demo2\demo2\obj\Debug\demo2.pdb
